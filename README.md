@@ -3,7 +3,7 @@
 **Author:** Pullela Lalitha
 **Description:** A fully responsive, animated personal portfolio for a Data Science student specializing in data engineering — ETL pipelines, streaming systems, and analytics. Built from scratch with a data-pipeline visual theme: a decorative parallax "flow" diagram in the hero, scroll-triggered reveals across every section, and content grouped the way a real data pipeline is (Ingest → Transform → Store → Analyze).
 
-🔗 **Live site:** _add your deployed URL here after Phase 5, e.g. `https://lalitha-pullela.vercel.app`_
+🔗 **Live site:** `https://pullela-lalitha-portfolio.vercel.app/`
 
 ---
 
