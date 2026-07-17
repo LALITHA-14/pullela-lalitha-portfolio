@@ -12,7 +12,7 @@ export const profile = {
   ],
   email: 'eshwarilalithapullela@gmail.com',
   github: 'https://github.com/LALITHA-14',
-  linkedin: 'https://www.linkedin.com/in/lalitha-pullela',
+  linkedin: 'https://www.linkedin.com/in/lalitha-pullela-9b5699290/',
 }
 
 export const stages = ['Ingest', 'Transform', 'Store', 'Analyze']
